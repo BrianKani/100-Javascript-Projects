@@ -1,0 +1,41 @@
+body{
+    margin: 100px;
+    text-align: center;
+}
+#wrapper{
+    display: flex;
+    justify-content: center;
+    
+}
+
+#start{
+    margin: 15px;
+    background-color: rgb(46, 170, 35);
+    border-radius: 4px;
+    color: aliceblue;
+    
+}
+#stop{
+    margin: 15px;
+    background-color: rgb(177, 66, 66);
+    border-radius: 4px;
+    color: aliceblue;
+   
+}
+#reset{
+    margin: 15px;
+    background-color: grey;
+    border-radius: 4px;
+    color: aliceblue;
+    
+}
+#time{
+    margin: 15px;
+    font-weight: bold;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+#pomodoro{
+    margin-bottom: 25px;
+}
